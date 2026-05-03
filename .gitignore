@@ -92,3 +92,14 @@ cscope.files
 # Xcode
 build/
 
+
+# Xcode build products
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxindex
+
+# macOS metadata
+.DS_Store
