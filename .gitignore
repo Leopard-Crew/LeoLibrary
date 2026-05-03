@@ -88,3 +88,7 @@ cabal-dev
 *.pyc
 *.pyo
 cscope.files
+
+# Xcode
+build/
+
