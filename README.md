@@ -1,6 +1,6 @@
 # LeoLibrary
 
-**LeoLibrary — A native audiobook library for Mac OS X Leopard.**
+**LeoLibrary — A native audiobook library for Mac OS X 10.5.8 Leopard PowerPC.**
 
 LeoLibrary is a native Leopard application for managing local audiobook collections.
 
